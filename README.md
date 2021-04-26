@@ -12,5 +12,6 @@ scikit-learn == 0.21.3
 
 His results on 128 UCR datasets can be found at [here](https://github.com/hfawaz/InceptionTime/blob/master/results-inception-128.csv)
 
-The Accuracy comparison on UCR 128 datasets with one time run is below
-![Picture1](https://user-images.githubusercontent.com/61366756/116042404-b457b080-a6b1-11eb-902e-fa93c5476690.png)
+The Accuracy comparison on UCR 128 datasets with one time run is below:
+[en.pdf](https://github.com/Wensi-Tang/Pytorch_InceptionTime/files/6374951/en.pdf)
+
