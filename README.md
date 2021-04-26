@@ -9,3 +9,4 @@ python == 3.5
 pytorch == 1.1.0  
 scikit-learn == 0.21.3
 
+His results on 128 UCR datasets can be found at [here](https://github.com/hfawaz/InceptionTime/blob/master/results-inception-128.csv)
