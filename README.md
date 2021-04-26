@@ -1,4 +1,3 @@
-
 # Pytorch_InceptionTime
 
 This is Pytorch implementation of a 1D-CNN Time-series classification model [InceptionTime](https://github.com/hfawaz/InceptionTime)
@@ -13,5 +12,5 @@ scikit-learn == 0.21.3
 His results on 128 UCR datasets can be found at [here](https://github.com/hfawaz/InceptionTime/blob/master/results-inception-128.csv)
 
 The Accuracy comparison on UCR 128 datasets with one time run is below:
-[](https://github.com/Wensi-Tang/Pytorch_InceptionTime/files/6374951/en.pdf)
+![Picture1](https://github.com/Wensi-Tang/Pytorch_InceptionTime/files/6374951/en.pdf)
 
